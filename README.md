@@ -1,11 +1,11 @@
 ## Bruno Guimarães</br>
 
-- I’m currently learning rust & c</br>
+- I’m currently learning Rust & C</br>
 - I’m looking to collaborate on rust/c low level projects</br>
 - How to reach me: brunoguimaraes.guigui@gmail.com</br>
 
 # About Me:
-Im a programming student with passion in low level applications, im currently learning rust to be my main language. I want to collaborate in low lever application & backend
+Im a brazilian programming student with passion in low level applications, im currently learning rust to be my main language. I want to collaborate in low lever application & backend
 
 i use arch btw
 
