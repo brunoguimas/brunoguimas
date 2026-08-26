@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Bruno Guimarães 👋
 
-<!--
-**brunoguimas/brunoguimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like understanding how things work — not just how to use them.
 
-Here are some ideas to get you started:
+Currently exploring **backend development, systems programming, Go, C/C++ and Linux**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building projects, breaking things, and learning from both.
+
+### 🛠️ Tech
+
+[![Tech](https://skillicons.dev/icons?i=go,c,cpp,cs,js,ts,py,postgres,docker,linux,arch,git,github,vim,neovim)](https://skillicons.dev)
+
+### 🚧 Currently building
+
+* **Metapps** — a personalized learning platform
+* **Terminal text editor** — a Vim-inspired editor written in Go
+* **Systems & backend projects** — experimenting with lower-level concepts and architecture
+
+### 📚 Currently learning
+
+* Data structures & algorithms
+* Systems programming
+* Compilers and language design
+* Backend architecture
