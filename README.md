@@ -13,7 +13,7 @@ Building projects, breaking things, and learning from both.
 ### 🚧 Currently building
 
 * **Metapps** — a personalized learning platform
-* **Terminal text editor** — a Vim-inspired editor written in Go
+* **Lambda** — a Vim-inspired terminal editor written in Go
 * **Systems & backend projects** — experimenting with lower-level concepts and architecture
 
 ### 📚 Currently learning
