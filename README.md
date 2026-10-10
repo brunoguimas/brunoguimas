@@ -1,4 +1,4 @@
-# Hello, I'm Bruno Guimarães 👋
+# Hello, I'm Bruno 👋
 
 I like understanding how things work — not just how to use them.
 
