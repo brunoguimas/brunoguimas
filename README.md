@@ -10,12 +10,6 @@ Building projects, breaking things, and learning from both.
 
 [![Tech](https://skillicons.dev/icons?i=go,c,cpp,cs,js,ts,py,postgres,docker,linux,arch,git,github,vim,neovim)](https://skillicons.dev)
 
-### 🚧 Currently building
-
-* **Metapps** — a personalized learning platform
-* **Lambda** — a Vim-inspired terminal editor written in Go
-* **Systems & backend projects** — experimenting with lower-level concepts and architecture
-
 ### 📚 Currently learning
 
 * Data structures & algorithms
